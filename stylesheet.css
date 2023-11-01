@@ -1,7 +1,11 @@
 .header-logo{
-    color: #ffffff;
+    color: #000;
     width:250px
 }
+
+li{
+    list-style:none;
+  }
 
 .main-copy{
     color: #F90;
