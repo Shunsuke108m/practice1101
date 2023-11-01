@@ -1,0 +1,14 @@
+.header-logo{
+    color: #ffffff;
+    width:250px
+}
+
+.main-copy{
+    color: #F90;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 125.1%; /* 150.12px */
+}
